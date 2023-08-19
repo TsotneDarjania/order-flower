@@ -1,4 +1,17 @@
-This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
+Welcome to OrderFlower – where the fragrance of fresh cookies meets your cravings in a customized way! 🌼🍪
+
+OrderFlower is an innovative platform that bridges the gap between cookie enthusiasts and skilled bakers. Say farewell to conventional cookie orders from generic sources. With OrderFlower, you have the freedom to handpick your favorite baker from a curated list and place personalized cookie orders with specific descriptions. Revel in the art of indulging in handcrafted cookies made with a personal touch.
+
+Key Features:
+🍪 Select Your Baker: Explore an array of talented cookie bakers, each with their own distinct specialties and flavors.
+
+🎨 Tailored Orders: Craft your orders with specific requirements – from ingredients to decorations. Your cookie creations are limited only by your imagination.
+
+💬 Direct Interaction: Engage directly with your chosen baker to discuss order specifics and preferences.
+
+🚚 Safe Delivery: Enjoy contactless delivery, ensuring your freshly baked delights arrive safely at your doorstep.
+
+🌟 Celebrate Creativity: Support local bakers, experience creative cookie marvels, and treat yourself to a world of exquisite flavors.
 
 ## Getting Started
 
